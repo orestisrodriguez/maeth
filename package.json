@@ -1,0 +1,9 @@
+{
+  "name": "maeth",
+  "version": "1.0.0",
+  "description": "A utility to safely evaluate math expressions",
+  "main": "index.js",
+  "repository": "https://github.com/orestisrodriguez/maeth",
+  "author": "Orestis Rodriguez",
+  "license": "MIT"
+}
